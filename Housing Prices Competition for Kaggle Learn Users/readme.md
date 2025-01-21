@@ -1,5 +1,7 @@
 # Housing Prices Competition for Kaggle Learn Users
 
+Смотреть файл **KaggleCatBoost.ipynb**
+
 Регрессионная задача. Предсказание цены дома
 
 
